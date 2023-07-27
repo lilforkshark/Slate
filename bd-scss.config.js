@@ -5,7 +5,7 @@ export default {
 		author: 'Gibbu & Tropical',
 		description: `An optimized, consistent, and functional theme for Discord based on GitHub's design language.`,
 		version: '1.2',
-		source: 'https://github.com/DiscordStyles/Slate/',
+		source: 'https://github.com/lilforkshark/Slate/',
 		invite: 'TeRQEPb'
 	},
 	base: {
